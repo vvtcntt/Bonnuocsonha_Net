@@ -188,7 +188,7 @@ footer{width:100%; height:auto; float:left; margin:0px; padding:15px 0px 0px 0px
 #Intro #IntroContent .Tear_Intro{width:23%; height:auto; float:left; margin:5px}
 #Intro #IntroContent .Tear_Intro span{ color:#3e3e3e; font-size:13px; font-weight:bold; text-transform:uppercase; display:block; margin:5px 0px; padding-bottom:10px}
 #Intro #IntroContent .Tear_Intro a{font-size:13px; color:#3e3e3e; margin:7px 0px; display:block}
-#CoppyRight{width:100%; height:auto; margin-top:15px; float:left; background:#2c3e50; text-align:center}
+#CoppyRight{width:100%; height:auto; margin-top:0px; float:left; background:#2c3e50; text-align:center}
 #CoppyRight span{ text-align:center; padding:7px 0px; color:#999; display:inline-block}
 #CoppyRight span span{color:#FFF; font-weight:bold}
 #Bocongthuong{width:100%; height:auto; float:left; margin:0px ; padding:10px 0px; text-align:center}

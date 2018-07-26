@@ -13,7 +13,12 @@ namespace Bonnuocsonha
         {
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
             routes.MapRoute("Product", "{tag}.html", new { controller = "Product", action = "ListProduct", tag = UrlParameter.Optional }, new { controller = "^p.*" }, new[] { "MyNamespace3" });
+            routes.MapRoute("ProductList", "ListProduct/{tag}.aspx", new { controller = "Product", action = "ListProduct", tag = UrlParameter.Optional }, new { controller = "^p.*" }, new[] { "MyNamespace3" });
+
+            
             routes.MapRoute("Chi_Tiet_San_Pham", "san-pham/{tag}", new { controller = "Product", action = "ProductDetail", tag = UrlParameter.Optional }, new { controller = "^P.*", action = "^ProductDetail$" });
+            routes.MapRoute("ProductDetail", "Product/{tag}-{id1}-{id}.aspx", new { controller = "Product", action = "ProductDetail", tag = UrlParameter.Optional }, new { controller = "^P.*", action = "^ProductDetail$" });
+
             routes.MapRoute("Redrect", "Default.aspx/{tag}", new { controller = "Error", action = "Redriect", tag = UrlParameter.Optional }, new { controller = "^E.*", action = "^Redriect$" });
 
             routes.MapRoute("Capacity1", "{tag}-dt/{hang}", new { controller = "Product", action = "ListCapacity", tag = UrlParameter.Optional, hang = UrlParameter.Optional }, new { controller = "^P.*" }, new[] { "MyNamespace2" });

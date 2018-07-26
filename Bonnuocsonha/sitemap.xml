@@ -2405,4 +2405,334 @@
     <id>56</id>
     <type>GroupProduct</type>
   </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/chinh-sach-dich-vu</loc>
+    <id>9</id>
+    <type>GroupNews</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/bon-nuoc-son-ha-dung.html</loc>
+    <id>41</id>
+    <type>GroupProduct</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/bon-nuoc-son-ha-ngang.html</loc>
+    <id>42</id>
+    <type>GroupProduct</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/bon-nuoc-dan-dung.html</loc>
+    <id>39</id>
+    <type>GroupProduct</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/bon-nuoc-son-ha-shi.html</loc>
+    <id>60</id>
+    <type>GroupProduct</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/bon-nuoc-son-ha-alpha.html</loc>
+    <id>61</id>
+    <type>GroupProduct</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/bon-nuoc-son-ha-shi-dung.html</loc>
+    <id>62</id>
+    <type>GroupProduct</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/bon-nuoc-son-ha-shi-ngang.html</loc>
+    <id>63</id>
+    <type>GroupProduct</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/bon-nuoc-son-ha-alpha-dung.html</loc>
+    <id>64</id>
+    <type>GroupProduct</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/bon-nuoc-son-ha-alpha-ngang.html</loc>
+    <id>65</id>
+    <type>GroupProduct</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-500l-dung</loc>
+    <id>52</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-500l-dung</loc>
+    <id>52</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/hang-san-xuat/son-ha</loc>
+    <id>1</id>
+    <type>Manufactures</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/bon-nuoc-son-ha-dung.html</loc>
+    <id>41</id>
+    <type>GroupProduct</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/bon-nuoc-son-ha-ngang.html</loc>
+    <id>42</id>
+    <type>GroupProduct</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/bon-nuoc-son-ha-ngang.html</loc>
+    <id>42</id>
+    <type>GroupProduct</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/bon-nuoc-son-ha-shi-dung.html</loc>
+    <id>62</id>
+    <type>GroupProduct</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/bon-nuoc-son-ha-shi-ngang.html</loc>
+    <id>63</id>
+    <type>GroupProduct</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/bon-nuoc-son-ha-alpha-dung.html</loc>
+    <id>64</id>
+    <type>GroupProduct</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/bon-nuoc-son-ha-alpha-ngang.html</loc>
+    <id>65</id>
+    <type>GroupProduct</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/bon-nhua-son-ha.html</loc>
+    <id>56</id>
+    <type>GroupProduct</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/bon-nhua-son-ha-dung.html</loc>
+    <id>57</id>
+    <type>GroupProduct</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/bon-nhua-son-ha-ngang.html</loc>
+    <id>58</id>
+    <type>GroupProduct</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-500l-dung</loc>
+    <id>52</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-500l-shd500-dung</loc>
+    <id>52</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-700l-shd700-dung</loc>
+    <id>53</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-1000l-shd1000-dung</loc>
+    <id>54</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-1200l-shd1200-dung</loc>
+    <id>139</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-1500l-shd1500f1140-dung</loc>
+    <id>56</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-1200l-shd980-dung</loc>
+    <id>139</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-500l-shd500-dung</loc>
+    <id>52</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-700l-shd700-dung</loc>
+    <id>53</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-1000l-shd1000-dung</loc>
+    <id>54</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-1500l-shd1500f1140-dung</loc>
+    <id>56</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-1200l-shd980-dung</loc>
+    <id>139</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-1500l-shd1500f960-dung</loc>
+    <id>57</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-2000l-shd2000f1140-dung</loc>
+    <id>59</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-2000l-shd2000f1380-dung</loc>
+    <id>58</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-2500l-shd2500f1380-dung</loc>
+    <id>60</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-3000l-shd3000f1140-dung</loc>
+    <id>61</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-3000l-shd30001380-dung</loc>
+    <id>62</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-3000l-shd3000f1380-dung</loc>
+    <id>62</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-1350l-shd1350-dung</loc>
+    <id>140</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-3500l-shd3500f1380-dung</loc>
+    <id>63</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-4000l-shd4000f1420-dung</loc>
+    <id>64</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-5000l-shd5000f1420-dung</loc>
+    <id>65</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-500l-shn500-ngang</loc>
+    <id>66</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-700l-shn700-ngang</loc>
+    <id>67</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-1000l-shn1000-ngang</loc>
+    <id>68</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-1200l-shn1200-ngang</loc>
+    <id>141</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-1350l-shn1350-ngang</loc>
+    <id>142</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-1500l-shn1500f960-ngang</loc>
+    <id>70</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-1500l-shn1500f1140-ngang</loc>
+    <id>71</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-2000l-shn2000f1140-ngang</loc>
+    <id>73</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-500l-shn500-ngang</loc>
+    <id>66</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-2000l-shn2000f1380-ngang</loc>
+    <id>72</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-2500l-shn2500f1140-ngang</loc>
+    <id>75</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-2500l-shn2500f1380-ngang</loc>
+    <id>74</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-3000l-shn3000f1380-ngang</loc>
+    <id>76</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-3000l-shn3000f1140-ngang</loc>
+    <id>76</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-3000l-shn3000f1140-ngang</loc>
+    <id>76</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-3000l-shn3000f1380-ngang</loc>
+    <id>77</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-3000l-shn3000f1140-ngang</loc>
+    <id>76</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-3500l-shn350f1420-ngang</loc>
+    <id>78</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-4000l-shn4000f1420-ngang</loc>
+    <id>79</id>
+    <type>Product</type>
+  </url>
+  <url xmlns="">
+    <loc>http://Bonnuocsonha.net/san-pham/bon-nuoc-son-ha-5000l-shn5000f1420-ngang</loc>
+    <id>80</id>
+    <type>Product</type>
+  </url>
 </urlset>

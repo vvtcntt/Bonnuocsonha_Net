@@ -61,7 +61,7 @@ namespace Bonnuocsonha.Controllers.Display.Section.Product
                 List<string> Mang = new List<string>();
                 Mang = Arrayid(idcate);
                 Mang.Add(idcate.ToString());
-                var LitsProduct = db.tblProducts.Where(p => p.Active == true && Mang.Contains(p.idCate.ToString()) && p.ViewHomes == true).OrderBy(p => p.Ord).ToList();
+                var LitsProduct = db.tblProducts.Where(p => p.Active == true && Mang.Contains(p.idCate.ToString()) && p.ViewHomes == true).OrderBy(p => p.Ord).OrderBy(p=>p.idCate).ToList();
                 foreach (var item1 in LitsProduct)
                 {
                     chuoi += "<div class=\"Tear_1\">";

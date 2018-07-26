@@ -196,16 +196,20 @@
                             @Html.Raw(Model.Info)
 
                         </div>
-                        <div class="Nvar1">
-                            <div class="Name_one">
-                                <span class="iCon"></span>
-                                <h3 class="Name">Tính năng @Model.Name</h3>
+                        @if (Model.Content != null && Model.Content != "")
+                        {
+                            <div class="Nvar1">
+                                <div class="Name_one">
+                                    <span class="iCon"></span>
+                                    <h3 class="Name">Tính năng @Model.Name</h3>
+                                </div>
                             </div>
-                        </div>
-                        <div class="Content_ContentProduct">
-                            @Html.Raw(Model.Content)
+                            <div class="Content_ContentProduct">
+                                @Html.Raw(Model.Content)
 
-                        </div>
+                            </div>
+                        }
+                       
                         <div class="VideoContent">
 
                             @if (ViewBag.video != null && ViewBag.video != "")

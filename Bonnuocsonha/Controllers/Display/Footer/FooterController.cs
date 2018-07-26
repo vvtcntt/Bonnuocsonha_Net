@@ -34,7 +34,7 @@ namespace Bonnuocsonha.Controllers.Display.Footer
                 chuoihotline += " </div>";
             }
             ViewBag.chuoihotline = chuoihotline;
-            var Listchinhsach = db.tblNews.Where(p => p.Active == true && p.idCate == 12).OrderBy(p => p.Ord).ToList();
+            var Listchinhsach = db.tblNews.Where(p => p.Active == true && p.idCate == 9).OrderBy(p => p.Ord).ToList();
             string chuoichinhsach = "";
             foreach (var item in Listchinhsach)
             {
